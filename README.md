@@ -25,16 +25,14 @@
 - Cosine Similarity
 - TF-IDF
 - Data Preprocessing
-- Exploratory Data Analysis
+- Exploratory Data Analysi
 
-## 🎯 هدف پروژه
+
 
 هدف این پروژه، پیاده‌سازی و مقایسه دو رویکرد رایج در سیستم‌های پیشنهاددهنده و بررسی نحوه استفاده از اطلاعات فیلم‌ها و رفتار کاربران برای تولید پیشنهادهای شخصی‌سازی‌شده است.
 
-## 📁 Dataset
 
 داده‌های مورد استفاده از مجموعه‌داده **MovieLens** شامل اطلاعات فیلم‌ها، امتیازات کاربران و تگ‌ها هستند.
 
-## 👨‍💻 Author
 
 Amin Mahdi Akhlaghi
